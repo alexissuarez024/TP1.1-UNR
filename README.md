@@ -22,12 +22,12 @@ Nos piden un programa que pueda hacer lo siguiente:
 
 Un reporte debería verse como tal:
 
-> EN EL SISTEMA [45466XB] SE MINARON [3] ASTEROIDES
+*EN EL SISTEMA [45466XB] SE MINARON [3] ASTEROIDES:
 2867 KG de hierro
 1532 KG de oro
 992 KG de platino
 2609 KG de metales misceláneos
-Por un total de 8000 KG de carga.
+Por un total de 8000 KG de carga.*
 
 No hace falta mostrar el nombre del sistema en el reporte general.
 
