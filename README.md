@@ -1,4 +1,4 @@
-### Trabajo Práctico N° 1.1 UTN
+### Trabajo Práctico N° 1.1 UNR
 En el año 2508, una empresa de minería espacial bajo el acrónimo CEC nos pide
 desarrollar un programa para catalogar y cuantificar los materiales que extraen de sus operaciones mineras.
 
